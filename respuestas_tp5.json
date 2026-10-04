@@ -10,5 +10,5 @@
   "ej9_python_condition": "threading_condition",
   "ej10_transacciones": "atomicidad",
   "ej11_peterson": "turn",
-  "ej12_semaforo_cola": "tres_ejecutando"
+  "ej12_semaforo_cola": "tres_bloqueados"
 }
